@@ -1,4 +1,8 @@
 
+<p>El primer objetivo de este jupyter notebbok es visualizar puestos de trabajo en el ámbito de datos y el nivel de experiencia. Para ello, se crearon histogramas, gráfico de barras y boxplots (para todos ellos tanto numéricos como categóricos). Se ha logrado un ambiente más organizado al agrupar datos y obtener información relevante para el análisis.
+
+El segundo objetivo es enfatizar los fundamentos estadísticos para analizar, agrupar y determinar que datos se necesitan y que representan estos como tal.</p>
+
 <h1>Dataset</h1>
 
 <li>work_year - Año de trabajo.</li>
